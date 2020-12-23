@@ -7,10 +7,7 @@ Tutorial Binance
 """
 from binance.client import Client
 
-
-
 api_key = 'NzVenBqk2rXFvpaUaHqf89jW5ySUK3GOPIjS2i4ov7IdAwuriumNUjrQnh45SZcq'
-
 api_secret = 'yq5f4Px8eMiH9QdlOmmNVKlvUq2ysRDuaVEYmBHDMQVTlTN1tkr24iJDqMcDDSlX'
 
 

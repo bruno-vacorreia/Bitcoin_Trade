@@ -4,3 +4,5 @@ numpy
 pandas
 scipy
 pytest
+binance
+python-binance
